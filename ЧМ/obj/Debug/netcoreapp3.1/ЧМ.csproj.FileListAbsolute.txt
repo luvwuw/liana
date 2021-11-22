@@ -1,0 +1,39 @@
+E:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.csprojAssemblyReference.cache
+E:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.AssemblyInfoInputs.cache
+E:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.AssemblyInfo.cs
+E:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.csproj.CoreCompileInputs.cache
+E:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.exe
+E:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.deps.json
+E:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.runtimeconfig.json
+E:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.runtimeconfig.dev.json
+E:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.dll
+E:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.pdb
+E:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.dll
+E:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.pdb
+E:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.genruntimeconfig.cache
+D:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.exe
+D:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.deps.json
+D:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.runtimeconfig.json
+D:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.runtimeconfig.dev.json
+D:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.dll
+D:\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.pdb
+D:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.csprojAssemblyReference.cache
+D:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.AssemblyInfoInputs.cache
+D:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.AssemblyInfo.cs
+D:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.csproj.CoreCompileInputs.cache
+D:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.dll
+D:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.pdb
+D:\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.genruntimeconfig.cache
+E:\2 КУРС\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.exe
+E:\2 КУРС\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.deps.json
+E:\2 КУРС\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.runtimeconfig.json
+E:\2 КУРС\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.runtimeconfig.dev.json
+E:\2 КУРС\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.dll
+E:\2 КУРС\ЧМ\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.pdb
+E:\2 КУРС\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.csprojAssemblyReference.cache
+E:\2 КУРС\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.AssemblyInfoInputs.cache
+E:\2 КУРС\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.AssemblyInfo.cs
+E:\2 КУРС\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.csproj.CoreCompileInputs.cache
+E:\2 КУРС\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.dll
+E:\2 КУРС\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.pdb
+E:\2 КУРС\ЧМ\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.genruntimeconfig.cache
